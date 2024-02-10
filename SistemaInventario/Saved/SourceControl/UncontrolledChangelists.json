@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventario/ObjectData.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventario/InteractableObject.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/ThirdPerson/Input/Interactions.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/GO/ZCIT69Q90Y0NREEFPG0HJK.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventario/InventaryControl.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventario/HUD.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/ThirdPerson/Input/Actions/Inventory.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventario/Item.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventario/Nada.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventario/R.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventario/Inventory.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/GP/GTCHW4ZKLWWVNFVPXHKOEP.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/ThirdPerson/Input/Actions/Interaction.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventario/Models/textures/Diffuse.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventario/Models/source/Diamond-Axe/material/Diffuse.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventario/Models/source/Diamond-Axe/Diamond-Axe.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventario/image_2024-02-08_132628693.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventario/Models/textures/Diffuse_Mat.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventario/Empty.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/ZR/ZKA1ZQ9WOFENPLPNKE7AGP.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/H0/6KQGX3R9VUU10D7498XBE5.uasset"
+			]
+		}
+	]
+}
