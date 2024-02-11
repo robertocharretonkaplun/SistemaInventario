@@ -27,7 +27,15 @@
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventario/Models/textures/Diffuse_Mat.uasset",
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventario/Empty.uasset",
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/ZR/ZKA1ZQ9WOFENPLPNKE7AGP.uasset",
-				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/H0/6KQGX3R9VUU10D7498XBE5.uasset"
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/H0/6KQGX3R9VUU10D7498XBE5.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventory/Blueprints/BP_InteractableObject.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventory/Blueprints/BP_InventoryManager.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventory/Structures/S_ObjectData.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventory/Widgets/WBP_HUD.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventory/Widgets/WBP_Item.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventory/InputActions/IA_Interaction.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventory/InputActions/IA_Inventory.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SistemaInventario/SistemaInventario/Content/Inventory/Interfaces/BPI_Interaction.uasset"
 			]
 		}
 	]
